@@ -56,7 +56,7 @@ The following SaaS goal and performance management platforms are sorted in desce
 
 ## 💻 Open-Source GitHub Projects
 
-The following open-source goal and OKR management repositories are sorted in descending order by **GitHub Star Count** 🌟. Click any badge to view its stargazers:
+The following open-source goal and OKR management repositories are sorted in descending order by **GitHub Stars_Count** 🌟. Click any badge to view its stargazers:
 
 - 🌟 **[OpenProject](https://github.com/opf/openproject)** [![Stars](https://img.shields.io/github/stars/opf/openproject?style=social&color=white)](https://github.com/opf/openproject/stargazers)  
   General-purpose enterprise project and goal management platform (GPL-3.0) with configurable work package types for **Objectives & Key Results (OKRs)**, hierarchical parent-child cascading, progress tracking via percent-complete metrics, and team version roadmaps.
